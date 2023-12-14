@@ -6,6 +6,6 @@ I want to learn how to write SingIn Singup Aut with react.js and Node.js .
 
 I add the mysql and node.js code using the express and cors.
 
-Something to change and you want to update first you need to clone .net step to pull.
+If something changes and you want to update first you need to clone the .net step to pull.
 
 LemonK
